@@ -1,6 +1,6 @@
 # Data Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, Pandas, SQL, Teradata
 
 ## Education			        		
 B.S., Data Science - Emphasis in Science, Technology, & Society  | The University of California Berkeley
