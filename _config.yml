@@ -3,7 +3,10 @@ logo: assets/circle headshot.png
 
 
 
-description: "I'm Madeeha, a UC Berkeley Regents’ and Chancellor’s Scholar and first-generation college graduate, passionate about using technology to drive social impact and promote equity in STEM through outreach and advocacy."
+description: "I'm Madeeha, a UC Berkeley Regents’ and Chancellor’s Scholar graduate, passionate about using technology to drive social impact and promote equity in STEM through outreach and advocacy."
+
+
+
 
 
 
@@ -12,4 +15,7 @@ description: "I'm Madeeha, a UC Berkeley Regents’ and Chancellor’s Scholar a
 
 
 show_downloads: false
+
+
+
 theme: jekyll-theme-minimal
